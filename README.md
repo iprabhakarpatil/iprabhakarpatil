@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prabhakar Patil
 - 👀 I’m interested in mobile application development
-- 👨🏻‍💻 Developing iOS applications using Swift/UIKit
-- 🌱 I’m currently learning Flutter
+- 👨🏻‍💻 Developing iOS applications using Swift,UIKit & SwiftUI
+- 🌱 I’m currently learning KMM/KMP/Kotlin
 - 💞️ I’m looking to collaborate on mobile projects in iOS
 - 📫 You can reach out to me via email @ prabhakarpatil648@gmail.com
 
